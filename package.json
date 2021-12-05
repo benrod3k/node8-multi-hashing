@@ -13,7 +13,7 @@
     "license": "GPL-3.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/turtlecoin/node8-multi-hashing.git"
+        "url": "https://github.com/jowy81/node8-multi-hashing.git"
     },
     "scripts": {
         "test": "node-gyp clean && node-gyp configure && node-gyp build && node tests/cryptonight-tests.js && node tests/argon2-tests.js"
